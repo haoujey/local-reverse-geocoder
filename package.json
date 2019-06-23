@@ -17,7 +17,7 @@
   "author": "Thomas Steiner",
   "license": "Apache-2.0",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.1.0",
     "csv-parse": "^4.0.0",
     "debug": "^4.0.1",
     "express": "^4.16.3",
